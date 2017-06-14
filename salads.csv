@@ -1,0 +1,67 @@
+Restaurant,Item,Calories,Total_Fat,Sodium,Fiber,Sugars,Protein
+Starbucks,Hearty Veggie & Brown Rice Salad Bowl,430,22,640,8,8,10
+Starbucks,Seasonal Harvest Fruit Blend,90,0,0,4,19,1
+Starbucks,Zesty Chicken & Black Bean Salad Bowl,360,15,840,8,9,14
+Wendy's,Apple Pecan Chicken Salad Full,340,11,1150,5,20,35
+Wendy's,Apple Pecan Chicken Salad Half,180,6,490,3,9,18
+Wendy's,Asian Cashew Chicken Salad Half,110,2,260,3,3,17
+Wendy's,Asian Cashew Chicken Salad Whole,210,4,520,5,5,33
+Wendy's,BBQ Ranch Chicken Salad Half,210,8,510,3,9,20
+Wendy's,BBQ Ranch Chicken Salad Whole,390,15,940,4,12,40
+Wendy's,Mozzarella Chicken Salad Full,520,24,1130,5,16,41
+Wendy's,Mozzarella Chicken Salad Half,360,18,750,3,9,24
+Wendy's,Power Mediterranean Chicken Salad Half,230,8,630,5,10,20
+Wendy's,Power Mediterranean Chicken Salad Whole,430,14,1220,8,18,39
+Wendy's,Spicy Chicken Caesar Salad Half,250,14,520,4,2,18
+Wendy's,Spicy Chicken Caesar Salad Whole,470,25,1240,5,3,37
+Wendy's,Summer Berry Chicken Salad Full,380,9,980,6,30,35
+Wendy's,Summer Berry Chicken Salad Half,210,6,500,4,17,18
+Wendy's,Taco Salad Full Size,660,32,1820,10,18,32
+Wendy's,Taco Salad Half Size,470,23,1320,5,9,16
+Subway,Autumn Carved Turkey Salad,300,9,1120,3,22,25
+Subway,B.L.T. Salad,150,8,420,4,5,10
+Subway,Big Hot Pastrami Melt Salad,400,29,1250,4,4,23
+Subway,Big Philly Cheesesteak Salad,330,16,1080,5,6,32
+Subway,Black Forest Ham Salad,110,3,590,4,6,12
+Subway,Buffalo Chicken Salad (with Ranch dressing),360,26,1100,4,6,20
+Subway,Carved Turkey & Bacon w/ Cheese Salad,280,12,1320,4,5,28
+Subway,Carved Turkey Salad,150,4,680,3,3,19
+Subway,Chicken & Bacon Ranch Melt Salad (includes Ranch dressing),510,38,1040,4,7,30
+Subway,Cold Cut Combo Salad,180,11,820,4,5,12
+Subway,Double Chicken Salad,220,5,490,4,4,36
+Subway,Italian B.M.T. Salad,230,15,1060,4,6,14
+Subway,Italian Hero Salad,230,15,1060,4,8,14
+Subway,Meatball Marinara Salad,310,17,720,6,10,16
+Subway,Oven Roasted Chicken Salad,140,3,280,4,4,19
+Subway,Roast Beef Salad,140,4,450,4,5,18
+Subway,Spicy Italian Salad,310,23,1280,4,6,15
+Subway,Steak & Cheese Salad,210,8,830,4,6,20
+Subway,Subway Club Salad,140,4,640,4,5,17
+Subway,Subway Melt Salad,200,10,910,4,6,18
+Subway,Sweet Onion Chicken Teriyaki Salad,200,3,660,4,16,20
+Subway,Tuna Salad,310,24,370,4,4,15
+Subway,Turkey Breast & Ham Salad,110,3,580,4,5,12
+Subway,Turkey Breast Salad,110,2,570,4,5,12
+Subway,Veggie Delite Salad,50,1,65,4,4,3
+Burger King,Bacon Cheddar Ranch Chicken Salad w/ crispy Chicken & Dressing,720,50,1960,5,7,36
+Burger King,Bacon Cheddar Ranch Chicken Salad w/ grilled Chicken & Dressing,590,40,1540,3,6,42
+Burger King,Chicken BLT Salad w/ Crispy Chicken,690,48,1750,4,8,35
+Burger King,Chicken BLT Salad w/ Grilled Chicken,550,37,1640,3,5,36
+Burger King,Chicken Caesar Salad w/ Crispy Chicken,670,43,1760,5,8,34
+Burger King,Chicken Caesar Salad w/ Grilled Chicken,530,32,1640,3,6,35
+Burger King,"Chicken, Apple & Cranberry Salad w/ Crispy Chicken",700,41,1090,5,37,28
+Burger King,"Chicken, Apple & Cranberry Salad w/ Grilled Chicken",560,30,980,4,34,29
+Burger King,"Garden Grilled Chicken Salad w/ Crispy Chicken, no dressing",450,24,1070,5,6,29
+Burger King,"Garden Grilled Chicken Salad w/ Grilled Chicken, no dressing",320,14,650,2,4,36
+Burger King,Side Caesar Salad with dressing,220,20,540,2,3,6
+Burger King,Side Garden Salad and Avocado Ranch Dressing,230,21,520,2,3,5
+McDonald's,Premium Asian Salad w/ Crispy Chicken,410,22,740,5,12,23
+McDonald's,Premium Asian Salad w/ Grilled Chicken,270,9,740,5,10,31
+McDonald's,Premium Asian Salad w/o Chicken,140,7,20,5,7,7
+McDonald's,Premium Bacon Ranch Salad w/ Crispy Chicken,390,22,870,4,7,26
+McDonald's,Premium Bacon Ranch Salad w/ Grilled Chicken,230,9,700,4,5,30
+McDonald's,Premium Bacon Ranch Salad w/o Chicken,140,7,300,3,4,9
+McDonald's,Premium Southwest Salad w/ Crispy Chicken,450,21,820,7,13,23
+McDonald's,Premium Southwest Salad w/ Grilled Chicken,290,8,650,7,11,27
+McDonald's,Premium Southwest Salad w/o Chicken,140,5,150,6,6,6
+McDonald's,Big Mac,540,29,1040,3,9,25
